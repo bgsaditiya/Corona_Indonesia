@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Corona Indonesia</string>
+    <string name="info_covid19">Info COVID19</string>
+    <string name="positif">Positif</string>
+    <string name="dirawat">Dirawat</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="textview">TextView</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="global">Data Global</string>
+    <string name="lihat_negara_lain">Lihat Negara Lain</string>
+</resources>
